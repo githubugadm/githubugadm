@@ -1,9 +1,11 @@
 # Valmir Donizete
-## DevOps Specialist & Backend Developer
+## Automation Analyst & Backend Developer
 
-Hi! I'm a passionate DevOps and Backend Developer focused on building scalable and efficient systems that bridge technology and business. I thrive on automating processes, managing cloud infrastructures (AWS, Docker, Kubernetes), and crafting secure and robust APIs using Python and Java.
+Hi! I'm Valmir Donizete, an enthusiastic Automation Analyst and Backend Developer dedicated to creating efficient, scalable systems that drive innovation and optimize business processes. I specialize in automating workflows, building robust backend solutions, and integrating technologies seamlessly to enhance performance.
 
-When I'm not coding, I enjoy collaborating with teams, solving complex problems, and exploring innovative technologies. My goal is to create impactful solutions that make a difference in the digital landscape.
+With a strong focus on backend development and process automation, I thrive on solving complex challenges and implementing tools that streamline operations. Whether it’s scripting, backend architecture, or workflow optimization, I’m passionate about delivering impactful solutions.
+
+Outside of coding, I enjoy collaborating with teams, exploring emerging technologies, and continuously learning to stay at the forefront of the digital landscape. My mission is to leverage technology to create meaningful and lasting results.
 
 ---
 
