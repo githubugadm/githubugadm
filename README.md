@@ -8,6 +8,7 @@ When I'm not coding, I enjoy collaborating with teams, solving complex problems,
 ---
 
 ### 🛠️ Languages and Tools
+<div style="display: inline_block"><br>
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -16,7 +17,7 @@ When I'm not coding, I enjoy collaborating with teams, solving complex problems,
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+</div>
 ---
 
 ### 📬 Contact Me
