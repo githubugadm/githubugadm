@@ -9,7 +9,9 @@ When I'm not coding, I enjoy collaborating with teams, solving complex problems,
 
 ### 🛠️ Languages and Tools
 <div style="display: inline_block"><br>
-<img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
